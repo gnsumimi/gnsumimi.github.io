@@ -1,4 +1,4 @@
-/* リセットCSS */
+/* resetcss */
 * {
     margin: 0;
     padding: 0;
@@ -14,7 +14,7 @@ body {
     padding: 20px;
 }
 
-/* ヘッダー */
+/* header */
 header {
     text-align: center;
     padding: 20px 0;
@@ -45,7 +45,7 @@ nav ul li a:hover {
     color: #0056b3;
 }
 
-/* メインコンテンツ */
+/* main */
 main {
     margin: 20px 0;
 }
@@ -80,7 +80,7 @@ main {
     color: #0056b3;
 }
 
-/* フッター */
+/* footer */
 footer {
     text-align: center;
     padding: 20px 0;
